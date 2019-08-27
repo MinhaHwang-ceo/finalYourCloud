@@ -97,10 +97,10 @@
                         <a class="nav-link" href="portfolio.html">회사소개</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">공지사항</a>
+                        <a class="nav-link" href="notice.bo">공지사항</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">이용가이드</a>
+                        <a class="nav-link" href="guide.bo">이용가이드</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.html">오픈예정</a>
