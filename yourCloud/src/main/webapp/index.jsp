@@ -5,14 +5,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>니가 그린 구름 그림</title>
 </head>
 <body>
 	<h1 align="center">인덱스페이지</h1>
-	<c:set var="contextPath" value="${ pageContext.servletContext.contextPath }"
-		scope="application"/>
+	<c:set var="contextPath" value="${ pageContext.servletContext.contextPath }" scope="application"/>
 		<% System.out.println("넘어가는중"); %>
 	<jsp:forward page="WEB-INF/views/main/main.jsp"/>
-	
 </body>
 </html>
